@@ -121,9 +121,7 @@ def rectarea(request):
     return render(request,'myapp/math.html',context)
 ```
 # OUTPUT:
-![output](./out.png)
 
-# HOME PAGE:
 ![home](./home.png)
 
 # RESULT:
